@@ -14,15 +14,15 @@ For custom dataset, you will need to tune the variables in the `PARAMETER` secti
 The repository provides two example frame-wise sequences - stationary and moving sources - to test the code. The visualization of the tracking result given by the script for the stationary example is shown below.
 
 <p align="center">
-   <img src="https://github.com/sharathadavanne/multiple-target-tracking/blob/master/images/stationary_azi.png" width="400" title="Visualizing the azimuth part">
-   <img src="https://github.com/sharathadavanne/multiple-target-tracking/blob/master/images/stationary_ele.png" width="400" title="Visualizing the elevation part">
+   <img src="https://github.com/sharathadavanne/multiple-target-tracking/blob/master/images/stationary_azi.png" width="400" height= "300" title="Visualizing the azimuth part">
+   <img src="https://github.com/sharathadavanne/multiple-target-tracking/blob/master/images/stationary_ele.png" width="400" height= "300" title="Visualizing the elevation part">
 </p>
 
 Similarly the visualization for the moving sources is shown below.
 
 <p align="center">
-   <img src="https://github.com/sharathadavanne/multiple-target-tracking/blob/master/images/moving_azi.png" width="400" title="Visualizing the azimuth part">
-   <img src="https://github.com/sharathadavanne/multiple-target-tracking/blob/master/images/moving_ele.png" width="400" title="Visualizing the elevation part">
+   <img src="https://github.com/sharathadavanne/multiple-target-tracking/blob/master/images/moving_azi.png" width="400" height= "300" title="Visualizing the azimuth part">
+   <img src="https://github.com/sharathadavanne/multiple-target-tracking/blob/master/images/moving_ele.png" width="400" height= "300" title="Visualizing the elevation part">
 </p>
 
 ## Keywords
