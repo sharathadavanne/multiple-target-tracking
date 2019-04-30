@@ -39,7 +39,7 @@ If you are using this code or the test sequence in any format, then please consi
 
 > Sharath Adavanne, Archontis Politis, Joonas Nikunen, and Tuomas Virtanen, "Sound event localization and detection of overlapping sources using convolutional recurrent neural network" in IEEE Journal of Selected Topics in Signal Processing (JSTSP 2018)
 
-> Sharath Adavanne, Archontis Politis and Tuomas Virtanen, "Sound event localization, detection, and tracking of multiple moving sources using convolutional recurrent neural network" submitted in IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA 2019)
+> Sharath Adavanne, Archontis Politis and Tuomas Virtanen, "Localization, detection, and tracking of multiple moving sources using convolutional recurrent neural network" submitted in IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA 2019)
 
 ## License
 Similar to the original repository of Simo Särkkä et. al., this repository is distributed under the [GNU General Public License (version 2 or later)](http://www.gnu.org/copyleft/gpl.html).
