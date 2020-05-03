@@ -2,7 +2,7 @@
 
 This repository presents how to use the Rao-Blackwellized particle filtering for tracking unknown number of 2D targets [proposed by Simo Särkkä et. al.](http://becs.aalto.fi/en/research/bayes/rbmcda/mt_demo.html). The original docmumentation for the method can be read [here](http://becs.aalto.fi/en/research/bayes/rbmcda/). Specifically, this script is a modified version of the [original script by Särkkä et. al.](http://becs.aalto.fi/en/research/bayes/rbmcda/html_doc_demos/src/demos/mt_demo/kf_mt_demo_dp.html), adapted for the real example of tracking unknown/multiple number of sound sources in complete 2D space represented using azimuth and elevation angles, also referred as direction of arrival (DOA) estimation.
 
-This work was used as a baseline to compare the performance of a [deep neural network (DNN) for tracking multiple moving sources.](https://github.com/sharathadavanne/seld-net) Check citation information below. 
+This work was used as a baseline to compare the performance of a [deep neural network (DNN) for tracking multiple moving sources.](https://github.com/sharathadavanne/seld-net) Check citation information below. To read more about the [general approaches for sound event localization and tracking refer here](https://www.aane.in/research/sound-event-localization-and-tracking).
 
 This script reads the frame-wise 2D target location from a CSV file. Each row of the CSV file consists of the time in seconds, and estimated
 location. As the estimated location, we use the DOA of a sound source represented using the azimuth (in 0-360 degree range) and elevation angles (in 0-180 degree range). If more than one source occurs in the same frame, the consecutive rows will contain the spatial location of each sources with an identical time stamp.
